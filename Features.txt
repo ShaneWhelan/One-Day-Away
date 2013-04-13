@@ -1,0 +1,11 @@
+Features I'm proud of:
+- Zork Game code and UI code separated - MVC
+- Can still play old game
+- Command History
+- Full Screen
+- Continue after game over
+- Map keyboard keys to actions
+- Custom buttons
+- Easy and hard mode - easy mode has loudness sliders
+- Tool tips for all items
+- Sounds on Button Click

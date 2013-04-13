@@ -1,0 +1,13 @@
+Things to remeber:
+- Match new() with deletions
+
+Bugs:
+Ensuite Bug - Outputing game ending reasons.
+
+Game Text to keep for later:
+Your free time was locked up and the key was melted down to make her engagment ring.
+
+http://www.freesound.org/people/schroedel/sounds/31548/
+http://www.freesound.org/people/Zabuhailo/sounds/148114/
+http://www.freesound.org/people/keweldog/sounds/181774/
+http://freesound.org/people/bulj/sounds/25715/
